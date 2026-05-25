@@ -32,3 +32,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 배포 문서 (민감 정보 포함 — GitHub 업로드 금지)
+배포.md
